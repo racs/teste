@@ -1,0 +1,2 @@
+adicionei arquivo teste 2 escrito
+adicionei esta linha depois do commit local
